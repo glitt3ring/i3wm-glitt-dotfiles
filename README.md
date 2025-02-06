@@ -1,4 +1,5 @@
 THIS IS ONLY FOR ARCH LINUX FOR NOW! 
+FOR VMS BUT YOU CAN CONFIGURE IT!
 
 Required Dependencies: 
 alacritty i3-wm i3lock i3status i3blocks polybar nerd-font lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings feh
