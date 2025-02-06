@@ -10,7 +10,7 @@ cp -vr i3 ~/.config/
 cp -vr polybar ~/.config/
 cp -vr .alacritty.toml ~/
 echo Installing LightDM...
-sudo pacman -Syu --needed lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings
+sudo pacman -Syu --needed --noconfirm lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings
 echo Type systemctl enable lightdm and systemctl start lightdm.
 echo You can add exec_always xrandr -s 1920x1080 to your i3wm config.
 echo Config file is located in "~/.config/i3/config"
