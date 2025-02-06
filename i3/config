@@ -185,6 +185,7 @@ bindsym $mod+r mode "resize"
 
 # custom startup programs
 exec_always ~/.config/polybar/launch.sh
+exec_always feh --bg-fill ~/i3wm-glitt-dotfiles/wall.png
 
 # class                 order  backgr. text    indicator child_border
 client.focused          #d65d0e #d65d0e #ffffff #d65d0e   #d65d0e
