@@ -7,7 +7,7 @@ IF YOU SKIP ONE OF THOSE IF WILL BE BUGGY BUT YOU CAN EDIT THE CONFIG FILE!
 Optional Dependencies:
 firefox thun
 
-To Install This, Run:
+To Install This, Run:\n
 cd ~/
 git clone https://github.com/glitt3ring/i3wm-glitt-dotfiles
 cd i3wm-glitt-dotfiles
