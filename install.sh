@@ -4,11 +4,12 @@
 echo Installing Optional Dependencies...
 sudo pacman -Syu --needed firefox thunar
 echo Installing Required Dependencies...
-sudo pacman -Syu --needed --noconfirm alacritty polybar dmenu i3-wm i3blocks i3lock i3status libev yajl pulseaudio pulseaudio-alsa nerd-font feh
+sudo pacman -Syu --needed --noconfirm alacritty polybar dmenu i3-wm i3blocks i3lock i3status libev yajl pulseaudio pulseaudio-alsa nerd-fonts feh
 cd ~/i3wm-glitt-dotfiles/
 cp -vr i3 ~/.config/
 cp -vr polybar ~/.config/
 cp -vr .alacritty.toml ~/
+chmod +x ~/.config/polybar/launch.sh
 echo Installing LightDM...
 sudo pacman -Syu --needed --noconfirm lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings
 echo Type systemctl enable lightdm and systemctl start lightdm.
