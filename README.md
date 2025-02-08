@@ -7,3 +7,5 @@ To Install This, Run:
 4. chmod +x install.sh 
 5. ./install.sh 
 6. sudo systemctl enable --now lightdm
+
+Btw I haven't tested this.
