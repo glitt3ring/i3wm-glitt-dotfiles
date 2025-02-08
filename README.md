@@ -9,6 +9,7 @@ IF YOU SKIP ONE OF THOSE IF WILL BE BUGGY BUT YOU CAN EDIT THE CONFIG FILE!
 
 Optional Dependencies:
 firefox thunar
+
 To Install This, Run:
 1. cd ~/ 
 2. git clone https://github.com/glitt3ring/i3wm-glitt-dotfiles 
