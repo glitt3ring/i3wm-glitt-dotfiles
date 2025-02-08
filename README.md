@@ -8,4 +8,4 @@ To Install This, Run:
 5. ./install.sh 
 6. sudo systemctl enable --now lightdm
 
-Btw I haven't tested this.
+Btw I haven't tested this, And it's recommended that you check the files before Installing.
