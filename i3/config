@@ -204,12 +204,6 @@ gaps outer 2px
 font pango: 0.1
 default_border pixel 2
 
-# required dependencies
-#alacritty polybar dmenu i3-wm i3blocks i3lock i3status libev yajl nerd-fonts
-
-# optional dependencies
-#firefox thunar
-
 # Keybind Help
 # MOD+M = firefox
 # MOD+N = thunar
