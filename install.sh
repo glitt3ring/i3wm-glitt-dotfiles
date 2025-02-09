@@ -2,7 +2,7 @@
 
 # Install dependencies
 echo Installing Optional Dependencies...
-sudo pacman -Syu --needed firefox thunar
+sudo pacman -Syu --needed firefox thunar gvfs
 echo Installing Required Dependencies...
 sudo pacman -Syu --needed --noconfirm alacritty polybar dmenu i3-wm i3blocks i3lock i3status libev yajl pulseaudio pulseaudio-alsa nerd-fonts feh
 cd ~/i3wm-glitt-dotfiles/
