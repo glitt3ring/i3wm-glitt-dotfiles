@@ -8,4 +8,7 @@ To Install This, Run:
 5. ./install.sh 
 6. sudo systemctl enable --now lightdm
 
+
+I won't be maintaining this cuz I moved to Gentoo with KDE.
+
 Btw I haven't tested this, And it's recommended that you check the files before Installing.
